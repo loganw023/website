@@ -1,9 +1,12 @@
 img {
-    width: 300px;
+    width: 350px;
+    bottom: 0;
+    position: fixed;
 }
 body {
     text-align: center;
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', sans-serif;
     background: grey;
     color: lightblue;
+    font-size: 20px;
 }
